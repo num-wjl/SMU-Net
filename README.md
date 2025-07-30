@@ -6,5 +6,5 @@
 
 # Code
 
-It will be added after publication
+It will be added after the article is published
 
