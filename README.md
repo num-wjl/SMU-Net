@@ -1,6 +1,6 @@
 # SMU-Net
 
-**SMU-Net: A lightweight shallow multi-convolutional U-shaped network for medical image segmentation**
+**SMU-Net: A shallow multi-convolutional U-shaped network for medical image segmentation**
 
 ---
 
